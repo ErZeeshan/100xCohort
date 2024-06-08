@@ -13,3 +13,5 @@ http://127.0.0.1:7860
 Roop https://github.com/s0md3v/sd-webui-roop/
 
 Custome Scripts https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Custom-Scripts
+
+ngrok config add-authtoken 2hb9BzolHkO0CEEVKco0EYi66S2_4e3n4eBrupVR8uQmSh63g
