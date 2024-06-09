@@ -16,7 +16,7 @@ cd SageMaker
 
 source miniconda/bin/activate
 
-copy the authtoken code snippet
+ngrok config add-authtoken 2hbI6cRrsm9txhbL3DVo7drGzGp_7amZXbZmoX93tBZrHKaYh
 
 Paste the Authtoken and press enter
 
