@@ -1,0 +1,26 @@
+How to open Automatic 1111 again after stopping the instance
+
+Step 1 - Activate your environment
+
+cd SageMaker
+
+source miniconda/bin/activate
+
+cd stable-diffusion-webui
+
+python launch.py
+
+Step 2 - Open a new terminal
+
+cd SageMaker
+
+source miniconda/bin/activate
+
+copy the authtoken code snippet
+
+Paste the Authtoken and press enter
+
+ngrok http 127.0.0.1:7860
+
+If not working then 
+killall ngrok
